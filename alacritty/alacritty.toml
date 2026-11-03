@@ -1,0 +1,56 @@
+[window]
+option_as_alt = "Both"
+padding = { x = 8, y = 8 }
+opacity = 0.96
+
+[font.normal]
+family = "Moralerspace Neon HW"
+style = "Regular"
+
+[font.bold]
+family = "Moralerspace Neon HW"
+style = "Bold"
+
+[font.italic]
+family = "Moralerspace Neon HW"
+style = "Italic"
+
+
+# GORILLA NIGHT
+[colors.primary]
+background = "#000000"
+foreground = "#E8E4DC"
+dim_foreground = "#777777"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#FF6600"
+
+[colors.selection]
+text = "CellForeground"
+background = "#303030"
+
+[colors.normal]
+black = "#171717"
+red = "#FF7777"
+green = "#8ECFA8"
+yellow = "#FFB000"
+blue = "#4D9FFF"
+magenta = "#B49CFF"
+cyan = "#69C9D0"
+white = "#E8E4DC"
+
+[colors.bright]
+black = "#777777"
+red = "#FF9999"
+green = "#A8E5BF"
+yellow = "#FFD166"
+blue = "#80B9FF"
+magenta = "#C9B7FF"
+cyan = "#91E1E6"
+white = "#FFFFFF"
+
+[[colors.indexed_colors]]
+index = 16
+color = "#FF6600"
+
